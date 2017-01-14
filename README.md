@@ -4,7 +4,7 @@ title: CS 246 Assignment 1
 
 <div id="header">
 
-| **[CS 246 Assignment 1](http://cs.brynmawr.edu/cs246/hw01/README.html)**
+| ** [CS 246 Assignment 1](http://cs.brynmawr.edu/cs246/hw01/README.html) **
 | due 12:55pm on Tuesday, January 24, 2017
 
 </div>

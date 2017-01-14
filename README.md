@@ -30,7 +30,7 @@ input. For example, if your program is expecting a number
 and the user type `bogus`, it's OK if your program crashes.
 
 0. Sign up for a [GitHub](https://github.com/) account
-   and fill out the [course survey](TODO).
+   and fill out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSeQbZY4GfuUK_I_4TJpiiRPx-94d59mQKnJHvzQc0t_El5SKQ/viewform).
 
 1. **Hello, world!**
 

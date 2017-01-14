@@ -4,12 +4,12 @@ title: CS 246 Assignment 1
 
 <div id="header">
 
-| ** [CS 246 Assignment 1](http://cs.brynmawr.edu/cs246/hw01/README.html) **
+| **CS 246 Assignment 1**
 | due 12:55pm on Tuesday, January 24, 2017
 
 </div>
 
-[Link back to syllabus](../syllabus.html)
+[Link back to syllabus](http://cs.brynmawr.edu/cs246/syllabus.html)
 
 Like all assignments, you will complete this assignment via
 GitHub. See [the submission instructions](../submission.html)

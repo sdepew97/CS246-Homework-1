@@ -27,7 +27,7 @@ to see where you are.)
 Please complete these tasks in order. It's meant to be
 easier that way. Also, ignore the possibility of bogus
 input. For example, if your program is expecting a number
-and the user type `bogus`, it's OK if your program crashes.
+and the user types `bogus`, it's OK if your program crashes.
 
 0. Sign up for a [GitHub](https://github.com/) account
    and fill out the [course survey](https://docs.google.com/forms/d/e/1FAIpQLSeQbZY4GfuUK_I_4TJpiiRPx-94d59mQKnJHvzQc0t_El5SKQ/viewform).
@@ -108,6 +108,11 @@ exit successfully.
     you store your numbers as `int`s, this should be the
     default behavior. (That is, integer division is the
     natural, easy interpretation of this task.)
+
+    Your program should act appropriately (issue a sensible error and continue running) if the user types
+    in the character for an operation that does not exist
+    (for example, `'#'`) or tries to divide by 0. You are *not* expected to be able to handle when
+    the user types a word instead of a number, however.
 
 5. **Reflections**
 

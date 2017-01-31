@@ -1,19 +1,18 @@
-Assignment 1 reflections.
+Assignment 2 reflections.
 
 Please answer the questions below:
 
 1. How did this assignment go for you? (Please write several sentences.)
-	
-This assignment went quite well for me. It was a good refresher of programming and way to get back to programming after break. Too, I feel like the assignment was a good introduction to C and the material we have covered so far. 
+
+This assignment was more difficult that the first assignment, because I got very stuck on the final two questions. The first of the final two questions I figured out by doing some google research and sussing out the algorithmic approach to convert decimals to hexadecimal. Please note that I did not look at any code during this research. 
+
+Eventually, for the other problem however, I did go into the TA for the hex to octal conversion, because I just could not figure it out and had already spent countless hours not understanding it. Rachel helped me to think through the problem and then I was able to write the code and finish the problem well. 
 
 2. What was hard about this assignment?
-
-I did not get the scanf() shortcut with the whitespace reading until you posted the hint on the course website for the Assignment. As a result, I spend a LOT of time banging my head, metaphorically of course, on a table about the calculator part of the assignment. The hint really helped and showed me that my code was working except for that one part. 
-
+The final two questions. 
+ 
 3. What would you like to know more about?
-
-I would like to you to know that I enjoy programming and that I also appreciate opportunities to ask questions outside of class. I plan to come into your office hours a lot. :) 
+I am not sure. :)
 
 4. How long did this assignment take you? (Do not include time spent on the readings.)
-
-This assignment took me about 3-4 hours all in. However, I had a lot of trouble with the calculator portion of the assignment, since I did not realize the scanf() shortcut concerning not reading whitespace characters. 
+This assignment took me 10+ hours, because I got stuck on the last two questions. 
